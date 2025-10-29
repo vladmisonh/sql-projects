@@ -1,0 +1,401 @@
+customer_id,signup_date,region,acquisition_channel
+1,2023-11-12,Southeast,Direct
+2,2024-01-17,Midwest,Organic
+3,2024-05-23,Northeast,Organic
+4,2024-03-24,Southeast,Email
+5,2023-08-02,Southeast,Referral
+6,2023-08-17,West,Direct
+7,2023-08-31,Southeast,Direct
+8,2024-02-01,Northeast,Organic
+9,2024-04-18,Southeast,Referral
+10,2023-10-07,Northeast,Email
+11,2023-12-19,West,Organic
+12,2024-06-24,West,Referral
+13,2024-01-30,Midwest,Direct
+14,2023-08-04,Northeast,Email
+15,2024-02-12,West,Paid Search
+16,2023-10-09,Midwest,Organic
+17,2023-11-08,Northeast,Paid Search
+18,2024-03-13,Southeast,Direct
+19,2023-07-05,West,Direct
+20,2024-02-03,Midwest,Paid Search
+21,2024-03-11,Midwest,Direct
+22,2024-08-01,West,Referral
+23,2024-06-23,Southeast,Social
+24,2024-04-08,Southeast,Referral
+25,2024-07-27,Midwest,Email
+26,2024-01-23,Midwest,Referral
+27,2023-07-15,Northeast,Email
+28,2024-06-10,Southeast,Direct
+29,2023-08-11,Northeast,Paid Search
+30,2024-07-14,Southeast,Organic
+31,2023-12-26,Southeast,Social
+32,2023-09-01,Midwest,Social
+33,2024-06-16,Midwest,Organic
+34,2024-02-16,Midwest,Paid Search
+35,2024-02-26,Northeast,Email
+36,2023-08-21,Midwest,Email
+37,2023-10-04,Southeast,Referral
+38,2024-07-22,Northeast,Referral
+39,2024-02-07,Northeast,Organic
+40,2024-02-16,West,Social
+41,2024-02-22,Midwest,Email
+42,2023-11-20,Northeast,Email
+43,2023-12-18,Midwest,Direct
+44,2023-07-29,Northeast,Direct
+45,2023-08-05,Midwest,Social
+46,2023-07-13,Midwest,Direct
+47,2023-12-07,Northeast,Referral
+48,2024-05-22,Midwest,Organic
+49,2024-01-03,West,Social
+50,2024-02-28,West,Organic
+51,2023-09-24,Midwest,Organic
+52,2024-04-09,Northeast,Email
+53,2023-09-04,Midwest,Email
+54,2023-12-17,West,Referral
+55,2023-08-14,West,Paid Search
+56,2023-08-31,Northeast,Organic
+57,2023-11-11,West,Direct
+58,2024-04-09,Southeast,Direct
+59,2023-07-28,Northeast,Email
+60,2023-10-16,Northeast,Email
+61,2023-08-13,West,Referral
+62,2024-06-04,Southeast,Social
+63,2024-04-11,West,Referral
+64,2024-05-26,West,Referral
+65,2023-11-05,Midwest,Referral
+66,2024-06-12,Southeast,Email
+67,2024-02-16,Southeast,Email
+68,2024-01-06,Midwest,Email
+69,2024-02-10,Midwest,Direct
+70,2024-07-19,Midwest,Social
+71,2024-07-11,Northeast,Social
+72,2024-04-08,Southeast,Email
+73,2023-10-29,Midwest,Referral
+74,2023-10-24,Northeast,Referral
+75,2024-02-18,Southeast,Email
+76,2024-03-15,Midwest,Email
+77,2024-06-23,Northeast,Organic
+78,2024-01-14,Midwest,Organic
+79,2023-11-14,Southeast,Referral
+80,2024-05-13,Midwest,Social
+81,2023-12-12,Southeast,Direct
+82,2024-02-10,Midwest,Paid Search
+83,2024-05-02,Northeast,Direct
+84,2024-02-19,Northeast,Referral
+85,2023-12-19,Southeast,Direct
+86,2023-11-29,West,Direct
+87,2024-05-10,Northeast,Organic
+88,2024-07-08,West,Referral
+89,2023-12-07,Northeast,Paid Search
+90,2023-10-04,West,Organic
+91,2024-02-18,Northeast,Email
+92,2023-12-27,Midwest,Social
+93,2023-10-21,Midwest,Social
+94,2024-05-13,West,Direct
+95,2023-08-21,Northeast,Organic
+96,2024-03-24,Southeast,Paid Search
+97,2024-04-20,Southeast,Referral
+98,2024-07-20,Northeast,Referral
+99,2024-07-21,Northeast,Direct
+100,2023-10-21,Southeast,Email
+101,2023-10-09,Southeast,Organic
+102,2023-10-21,Southeast,Direct
+103,2023-09-19,Midwest,Direct
+104,2024-01-03,Northeast,Paid Search
+105,2023-10-21,West,Organic
+106,2023-07-02,Northeast,Email
+107,2023-11-07,West,Organic
+108,2024-02-05,West,Social
+109,2023-08-23,Northeast,Direct
+110,2024-06-07,Southeast,Email
+111,2024-02-09,West,Paid Search
+112,2024-02-10,West,Social
+113,2024-07-19,West,Email
+114,2023-11-03,Southeast,Email
+115,2023-11-07,Southeast,Direct
+116,2023-08-22,West,Email
+117,2023-12-19,Midwest,Direct
+118,2024-02-03,Northeast,Organic
+119,2023-12-07,Northeast,Referral
+120,2024-01-14,West,Organic
+121,2024-03-03,West,Organic
+122,2024-05-19,Midwest,Social
+123,2024-01-19,Northeast,Direct
+124,2023-12-31,West,Referral
+125,2023-10-31,Southeast,Direct
+126,2024-03-11,Southeast,Direct
+127,2024-04-19,Northeast,Organic
+128,2024-04-05,West,Social
+129,2024-05-20,West,Organic
+130,2024-07-06,West,Direct
+131,2023-10-06,Northeast,Social
+132,2024-01-14,Southeast,Social
+133,2024-07-29,Midwest,Social
+134,2024-02-25,Midwest,Social
+135,2023-11-21,West,Organic
+136,2023-10-05,Northeast,Paid Search
+137,2024-01-17,Northeast,Direct
+138,2023-11-01,Southeast,Email
+139,2024-01-03,Midwest,Direct
+140,2024-05-21,Southeast,Referral
+141,2024-06-13,West,Referral
+142,2024-03-15,Northeast,Direct
+143,2023-11-25,Southeast,Organic
+144,2024-03-08,Southeast,Referral
+145,2024-06-10,Southeast,Email
+146,2023-11-24,Northeast,Social
+147,2023-11-25,Southeast,Referral
+148,2024-06-16,Northeast,Referral
+149,2024-01-15,Southeast,Referral
+150,2024-05-03,Southeast,Social
+151,2023-11-05,Midwest,Paid Search
+152,2023-08-08,Northeast,Email
+153,2024-06-02,Midwest,Organic
+154,2024-06-24,Midwest,Social
+155,2023-11-06,Northeast,Email
+156,2024-03-23,Midwest,Social
+157,2023-11-28,Midwest,Direct
+158,2024-04-23,Southeast,Social
+159,2023-10-07,Southeast,Direct
+160,2024-03-19,Northeast,Referral
+161,2024-03-08,Midwest,Organic
+162,2023-11-21,Midwest,Direct
+163,2024-06-10,Northeast,Paid Search
+164,2023-10-20,Midwest,Organic
+165,2023-08-29,West,Referral
+166,2024-07-03,Midwest,Referral
+167,2023-07-02,Southeast,Email
+168,2024-07-19,Midwest,Email
+169,2024-04-29,Southeast,Organic
+170,2024-03-10,Midwest,Direct
+171,2023-11-17,Southeast,Email
+172,2023-08-06,Northeast,Paid Search
+173,2023-12-07,Midwest,Referral
+174,2023-07-09,Northeast,Email
+175,2024-02-18,Midwest,Organic
+176,2023-10-07,Midwest,Referral
+177,2023-11-24,West,Paid Search
+178,2024-04-29,Southeast,Direct
+179,2024-01-24,West,Paid Search
+180,2023-11-08,Southeast,Direct
+181,2023-11-29,Midwest,Organic
+182,2023-08-23,Midwest,Organic
+183,2023-10-28,West,Referral
+184,2023-12-08,West,Referral
+185,2023-10-24,Southeast,Direct
+186,2023-09-13,Southeast,Email
+187,2023-10-21,Northeast,Referral
+188,2023-10-12,Southeast,Paid Search
+189,2024-06-04,Northeast,Social
+190,2024-03-10,Northeast,Direct
+191,2024-02-12,Midwest,Paid Search
+192,2023-10-20,Southeast,Paid Search
+193,2023-10-07,Northeast,Email
+194,2023-11-30,Northeast,Email
+195,2024-06-13,Southeast,Paid Search
+196,2024-07-18,West,Referral
+197,2024-06-30,Northeast,Organic
+198,2024-06-02,Northeast,Organic
+199,2024-01-10,West,Direct
+200,2024-05-05,Northeast,Email
+201,2023-12-10,Midwest,Social
+202,2024-01-24,Northeast,Paid Search
+203,2023-12-16,Northeast,Email
+204,2023-12-08,Southeast,Social
+205,2023-09-06,Southeast,Social
+206,2024-04-14,Northeast,Organic
+207,2024-08-01,West,Paid Search
+208,2024-04-02,Midwest,Organic
+209,2024-04-29,Northeast,Direct
+210,2024-07-18,Northeast,Social
+211,2024-07-26,Midwest,Paid Search
+212,2023-11-12,Southeast,Paid Search
+213,2024-01-11,Midwest,Email
+214,2023-11-05,West,Email
+215,2023-08-02,Midwest,Direct
+216,2023-12-23,Southeast,Paid Search
+217,2024-07-05,Northeast,Referral
+218,2024-07-09,Midwest,Direct
+219,2023-07-22,Southeast,Referral
+220,2024-02-23,West,Paid Search
+221,2023-12-05,Midwest,Social
+222,2023-08-07,Southeast,Social
+223,2024-02-15,Northeast,Paid Search
+224,2024-06-29,Southeast,Email
+225,2023-08-20,West,Direct
+226,2024-03-20,Northeast,Paid Search
+227,2024-04-08,West,Direct
+228,2023-07-27,Midwest,Referral
+229,2024-02-11,Midwest,Email
+230,2024-04-02,Southeast,Email
+231,2024-04-11,Midwest,Referral
+232,2023-10-05,Midwest,Email
+233,2024-04-09,West,Paid Search
+234,2024-07-01,West,Email
+235,2024-05-12,Midwest,Referral
+236,2024-04-29,Northeast,Organic
+237,2023-11-24,West,Email
+238,2023-07-04,West,Email
+239,2023-08-04,Northeast,Referral
+240,2024-01-08,Midwest,Social
+241,2023-08-18,Southeast,Paid Search
+242,2023-07-17,Midwest,Organic
+243,2023-12-19,West,Referral
+244,2024-02-05,Midwest,Social
+245,2023-12-05,West,Social
+246,2023-08-15,Northeast,Referral
+247,2024-07-07,West,Email
+248,2023-07-06,Northeast,Email
+249,2023-10-07,Southeast,Paid Search
+250,2024-07-14,Midwest,Direct
+251,2024-02-18,Northeast,Email
+252,2023-08-06,Midwest,Organic
+253,2024-04-05,Northeast,Organic
+254,2024-06-13,Southeast,Direct
+255,2024-04-27,Northeast,Social
+256,2023-12-28,Southeast,Social
+257,2023-10-03,West,Email
+258,2023-10-07,Northeast,Email
+259,2024-01-04,West,Social
+260,2023-10-24,West,Organic
+261,2024-01-07,Northeast,Email
+262,2024-03-09,Southeast,Direct
+263,2023-12-08,West,Organic
+264,2024-03-12,Northeast,Email
+265,2024-05-18,West,Direct
+266,2023-11-05,Northeast,Direct
+267,2023-07-18,West,Organic
+268,2024-04-06,West,Email
+269,2024-02-08,Midwest,Social
+270,2023-08-23,West,Referral
+271,2023-08-27,West,Organic
+272,2024-05-18,West,Social
+273,2024-06-24,Midwest,Organic
+274,2023-12-21,Midwest,Referral
+275,2024-04-05,West,Email
+276,2023-10-22,Northeast,Paid Search
+277,2024-04-13,West,Direct
+278,2024-06-06,Midwest,Organic
+279,2023-11-28,Midwest,Paid Search
+280,2023-11-04,Midwest,Referral
+281,2023-12-02,Southeast,Organic
+282,2024-07-20,Northeast,Organic
+283,2024-03-29,West,Email
+284,2023-10-12,Northeast,Email
+285,2024-07-27,Northeast,Direct
+286,2024-04-24,West,Social
+287,2024-03-02,Midwest,Referral
+288,2023-12-23,West,Social
+289,2023-08-08,Southeast,Organic
+290,2023-12-17,West,Social
+291,2024-03-03,Southeast,Referral
+292,2023-07-26,West,Social
+293,2024-06-19,Southeast,Paid Search
+294,2024-05-01,Midwest,Social
+295,2023-07-13,West,Referral
+296,2024-05-11,Northeast,Social
+297,2024-07-25,Northeast,Paid Search
+298,2024-05-08,West,Social
+299,2023-08-05,Southeast,Social
+300,2023-12-20,Midwest,Email
+301,2023-07-20,West,Email
+302,2024-05-16,Northeast,Social
+303,2024-03-20,Northeast,Referral
+304,2024-08-03,Southeast,Social
+305,2023-11-19,Southeast,Direct
+306,2024-07-05,West,Organic
+307,2023-11-20,West,Organic
+308,2023-09-30,Southeast,Paid Search
+309,2024-06-18,West,Paid Search
+310,2024-05-17,Northeast,Social
+311,2024-04-13,Midwest,Paid Search
+312,2024-01-31,West,Paid Search
+313,2024-06-06,West,Paid Search
+314,2023-08-20,Southeast,Social
+315,2023-11-30,Southeast,Email
+316,2024-01-02,Southeast,Paid Search
+317,2023-09-01,Northeast,Email
+318,2024-01-06,Southeast,Email
+319,2023-11-02,Southeast,Direct
+320,2023-11-27,Northeast,Organic
+321,2024-05-09,Southeast,Referral
+322,2023-08-27,Northeast,Organic
+323,2024-06-06,Northeast,Social
+324,2024-04-30,Southeast,Referral
+325,2023-12-27,Northeast,Social
+326,2023-12-17,Midwest,Paid Search
+327,2024-05-21,Northeast,Referral
+328,2024-03-27,Southeast,Organic
+329,2023-08-23,Midwest,Direct
+330,2023-10-09,Southeast,Paid Search
+331,2024-03-20,West,Social
+332,2023-08-22,Northeast,Direct
+333,2023-08-29,Northeast,Direct
+334,2023-10-16,Midwest,Email
+335,2023-07-05,Southeast,Referral
+336,2023-10-11,Southeast,Paid Search
+337,2024-01-12,West,Email
+338,2024-03-18,Midwest,Direct
+339,2024-06-29,Midwest,Direct
+340,2024-07-06,West,Social
+341,2024-06-14,Southeast,Social
+342,2023-08-16,Midwest,Email
+343,2024-06-19,West,Email
+344,2024-05-06,Northeast,Social
+345,2024-05-03,Northeast,Email
+346,2023-11-21,Midwest,Referral
+347,2024-03-25,West,Social
+348,2024-07-04,West,Email
+349,2023-11-01,Midwest,Paid Search
+350,2023-10-14,Northeast,Direct
+351,2023-12-05,Midwest,Social
+352,2023-11-24,Northeast,Social
+353,2023-11-22,West,Paid Search
+354,2023-10-28,Southeast,Social
+355,2024-05-14,Midwest,Organic
+356,2024-03-31,West,Organic
+357,2023-09-30,Midwest,Paid Search
+358,2023-08-27,Midwest,Paid Search
+359,2024-06-10,Midwest,Referral
+360,2024-02-14,Southeast,Referral
+361,2023-10-25,Northeast,Direct
+362,2024-05-13,Northeast,Email
+363,2024-04-04,West,Social
+364,2023-11-04,Northeast,Email
+365,2024-07-27,West,Email
+366,2024-07-30,West,Social
+367,2023-11-06,Southeast,Direct
+368,2023-08-27,Midwest,Organic
+369,2023-10-30,West,Email
+370,2023-07-01,Northeast,Paid Search
+371,2024-02-24,Midwest,Social
+372,2024-04-15,Midwest,Social
+373,2023-10-04,Midwest,Paid Search
+374,2023-11-03,West,Paid Search
+375,2023-10-26,Midwest,Paid Search
+376,2023-08-17,Northeast,Direct
+377,2023-09-27,Northeast,Paid Search
+378,2024-02-22,Southeast,Email
+379,2024-07-07,Northeast,Organic
+380,2024-07-19,Northeast,Email
+381,2024-03-28,West,Paid Search
+382,2024-01-05,Midwest,Direct
+383,2024-01-08,Northeast,Paid Search
+384,2023-09-07,Northeast,Paid Search
+385,2024-04-03,Northeast,Paid Search
+386,2024-06-13,Southeast,Email
+387,2024-03-03,Northeast,Paid Search
+388,2023-09-14,Southeast,Direct
+389,2023-12-01,Midwest,Email
+390,2023-11-21,Northeast,Email
+391,2023-09-24,West,Direct
+392,2024-01-01,Southeast,Referral
+393,2024-04-10,Midwest,Social
+394,2024-02-05,West,Social
+395,2023-09-07,Midwest,Organic
+396,2023-08-16,Southeast,Paid Search
+397,2023-10-02,West,Direct
+398,2024-02-23,Southeast,Social
+399,2024-01-20,West,Direct
+400,2024-08-03,Southeast,Organic
